@@ -1,10 +1,16 @@
 _repo: Schutz-und-Trutzbundnisse-in-der-Natur_50003
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50003-h/images/cover.jpg
 creator:
   author:
     agent_name: Bölsche, Wilhelm
     gutenberg_agent_id: '45651'
     url: http://www.gutenberg.org/2009/agents/45651
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50003#Schutz-und-Trutzbundnisse-in-der-Natur
 gutenberg_issued: '2015-09-18'
 gutenberg_type: Text
 identifiers:
